@@ -1,0 +1,11 @@
+.card-photo {
+    cursor: pointer;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+.card-photo:hover {
+    border: 1px solid #333;
+}
